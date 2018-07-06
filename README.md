@@ -1,6 +1,6 @@
-# XORdecryptor
+# XorPasswordFinder
 
-XORdecryptor is a small project that will simply display all possible XOR password combinations from given list of strings. I had an idea for this kind of tool for a longer time now and I've finally finished it. However don't expect too much or cool UI, this tool just have to work :)
+XorPasswordFinder is a small project that will simply display all possible XOR password combinations from given list of strings. I had an idea for this kind of tool for a longer time now and I've finally finished it. However don't expect too much or cool UI, this tool just have to work :)
 
 ![](https://prtsc.me/i/f6724141.jpeg)
 
